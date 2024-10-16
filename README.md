@@ -11,6 +11,6 @@ Links of projects
 
 **Data Analysis using SQL (RSVP movies Case Study):** https://github.com/N-Lasya/RSVP-movies-Case-study
 
-**Insights on Bike sharing dataset (EDA and Linear Regression):**https://github.com/N-Lasya/Insights-on-Bike-Sharing-Dataset
+**Insights on Bike sharing dataset (EDA and Linear Regression):** https://github.com/N-Lasya/Insights-on-Bike-Sharing-Dataset
 
 **Missile Command Game:** https://github.com/N-Lasya/Missile-Command-Game
