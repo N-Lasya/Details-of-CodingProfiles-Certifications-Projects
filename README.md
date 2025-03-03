@@ -7,6 +7,10 @@ Links of projects
 
 **Fire detection using Surveillance Camera:** https://github.com/N-Lasya/Fire-detection-using-ML
 
+**Lead Scoring case study:** https://github.com/N-Lasya/Lead-Scoring-Case-Study
+
+**Teleom Churn case study:** https://github.com/N-Lasya/Telecom-churn-case-study
+
 **EDA on Bank Loans dataset:** https://github.com/N-Lasya/EDA-on-bank-loans-dataset
 
 **Data Analysis using SQL (RSVP movies Case Study):** https://github.com/N-Lasya/RSVP-movies-Case-study
