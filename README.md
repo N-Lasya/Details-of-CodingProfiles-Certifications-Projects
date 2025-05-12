@@ -27,7 +27,7 @@ Credential ID: 3B673E5AACBD12B7
 
 * **Dotnet FSE certification by Optum**
 
-8 **Hackerrank problem solving (basic) skills certification**: https://www.hackerrank.com/certificates/a8cc6c8fb5a1
+* **Hackerrank problem solving (basic) skills certification**: https://www.hackerrank.com/certificates/a8cc6c8fb5a1
 
 * **Programming for Everybody(Getting Started with Python)**: https://coursera.org/share/31766a33a9e5a7129c067139483ec565
 
