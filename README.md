@@ -5,6 +5,12 @@ Links of projects
 
 **Stock Price Prediction using Machine Learning:** https://github.com/N-Lasya/Stock-Price-Prediction-using-ML
 
+**LLM based Applications:** https://github.com/N-Lasya/LLM-based-application
+
+   **1. Insurance Policy Q&A system**
+  
+   **2. Fashion Search AI with Myntra dataset**
+
 **Fire detection using Surveillance Camera:** https://github.com/N-Lasya/Fire-detection-using-ML
 
 **Lead Scoring case study:** https://github.com/N-Lasya/Lead-Scoring-Case-Study
