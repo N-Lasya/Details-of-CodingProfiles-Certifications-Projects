@@ -16,6 +16,8 @@ Coding Profiles
 **ProjectEuler username**: nlasya
 
 
+
+
 Certifications
 --------------
 
@@ -34,6 +36,8 @@ Credential ID: 3B673E5AACBD12B7
 **AI for Everyone**: https://coursera.org/share/398c9b90d05335ad45d2a0cdd9aa9a16
 
 **Digital Skills: Artificial Intelligence**: https://www.futurelearn.com/certificates/uzvrgxi
+
+
 
 
 Project Links
