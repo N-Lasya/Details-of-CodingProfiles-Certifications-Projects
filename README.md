@@ -52,6 +52,8 @@ Project Links
    **1. Insurance Policy Q&A system**
   
    **2. Fashion Search AI with Myntra dataset**
+   
+**Automatic Ticket classification:**   https://github.com/N-Lasya/Automatic-ticket-classification
 
 **Fire detection using Surveillance Camera:** https://github.com/N-Lasya/Fire-detection-using-ML
 
