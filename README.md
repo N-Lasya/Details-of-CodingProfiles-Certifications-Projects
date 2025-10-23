@@ -53,7 +53,7 @@ Project Links
   
 * **Credit card fraud detection** https://github.com/N-Lasya/Credit-Card-Fraud-detection
   
-* **Azure File Flow:** https://github.com/N-Lasya/Azure-File-Flow
+* **Azure DataFlow Automator:** https://github.com/N-Lasya/Azure-File-Flow
 
 * **Stock Price Prediction using Machine Learning:** https://github.com/N-Lasya/Stock-Price-Prediction-using-ML   
 
