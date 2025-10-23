@@ -43,17 +43,19 @@ Credential ID: 3B673E5AACBD12B7
 Project Links
 -----------------
 
-* **Azure File Flow:** https://github.com/N-Lasya/Azure-File-Flow
-
-* **Stock Price Prediction using Machine Learning:** https://github.com/N-Lasya/Stock-Price-Prediction-using-ML
-
+* **Automatic Ticket classification:**   https://github.com/N-Lasya/Automatic-ticket-classification
+  
 * **LLM based Applications:** https://github.com/N-Lasya/LLM-based-application
 
    **1. Insurance Policy Q&A system**
   
    **2. Fashion Search AI with Myntra dataset**
-   
-* **Automatic Ticket classification:**   https://github.com/N-Lasya/Automatic-ticket-classification
+  
+* **Credit card fraud detection** https://github.com/N-Lasya/Credit-Card-Fraud-detection
+  
+* **Azure File Flow:** https://github.com/N-Lasya/Azure-File-Flow
+
+* **Stock Price Prediction using Machine Learning:** https://github.com/N-Lasya/Stock-Price-Prediction-using-ML   
 
 * **Fire detection using Surveillance Camera:** https://github.com/N-Lasya/Fire-detection-using-ML
 
